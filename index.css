@@ -1,0 +1,33 @@
+.con{
+  margin-top: 10px;
+  margin-right: 200px;
+  margin-left: 200px;
+  background: #b3d7ff;
+  height: 50vh;
+}
+
+h1{
+  text-align: center;
+}
+.email{
+  border-radius: 10px;
+  border-color: #227fe2;
+  margin-top: 20px;
+  margin-left: 300px;
+  height: 50px;
+  padding-left: 10px;
+
+}
+.pass{
+  border-radius: 10px;
+  border-color: #227fe2;
+  margin-top: 20px;
+  margin-left: 300px;
+  height: 50px;
+  padding-left: 10px;
+}
+.but{
+  margin-top: 20px;
+  margin-left: 300px;
+
+}
